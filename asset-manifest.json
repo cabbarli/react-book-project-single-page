@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-book-project-single-page/static/css/main.24cd08d8.css",
+    "main.js": "/react-book-project-single-page/static/js/main.53583e18.js",
+    "index.html": "/react-book-project-single-page/index.html",
+    "main.24cd08d8.css.map": "/react-book-project-single-page/static/css/main.24cd08d8.css.map",
+    "main.53583e18.js.map": "/react-book-project-single-page/static/js/main.53583e18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24cd08d8.css",
+    "static/js/main.53583e18.js"
+  ]
+}
